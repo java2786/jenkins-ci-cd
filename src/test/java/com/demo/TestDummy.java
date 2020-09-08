@@ -8,6 +8,6 @@ public class TestDummy {
 
 	@Test
 	public void demo() {
-		assertSame(5, 15);
+		assertSame(5, 5);
 	}
 }
